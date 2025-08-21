@@ -1,5 +1,5 @@
 //Program to demonstrate static method
-package com.tnsif.daysix.staticblockmethod;
+package daysix.staticblockmethod;
 
 public class MyClassDemo {
 
