@@ -1,5 +1,5 @@
 //Program to demonstrate final method 
-package com.tnsif.daysix.usingfinal;
+package daysix.usingfinal;
 
 //class with final method
 class FinalMethodClass {
