@@ -1,5 +1,5 @@
 //Program to demonstrate constructor overloading - Compile Time Polymorphism
-package com.tnsif.dayseven.overloading;
+package dayseven.overloading;
 
 public class Point {
 	private float x;
