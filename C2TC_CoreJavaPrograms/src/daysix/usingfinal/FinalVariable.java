@@ -1,5 +1,5 @@
 // Program to demonstrate final Variable
-package com.tnsif.daysix.usingfinal;
+package daysix.usingfinal;
 
 public class FinalVariable {
 
