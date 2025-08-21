@@ -1,5 +1,5 @@
 //Program to demonstrate static variables
-package com.tnsif.daysix.staticvariable;
+package daysix.staticvariable;
 
 public class EmployeeDemo {
 
